@@ -3,6 +3,9 @@
 @import './abstractions/_mixins';
 @import './abstractions/_variables';
 
+//bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
 //basic
 @import './basic/_animations';
 @import './basic/_basic';
