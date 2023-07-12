@@ -22183,6 +22183,10 @@ body {
   padding: 8rem 0;
 }
 
+.u-padding-pt-large {
+  padding-top: 8rem;
+}
+
 header {
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.49) 0%, rgba(0, 0, 0, 0.49) 100%), url("/build/img/header-bg.jpg");
   background-size: cover;
